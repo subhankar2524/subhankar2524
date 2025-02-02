@@ -27,6 +27,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer specializing
 ### 📫 How to reach me
 - Email: [subhankarg2524@gmail.com](mailto:subhankarg2524@gmail.com)
 - LinkedIn: [linkedin.com/in/subhankarg2524](https://linkedin.com/in/subhankarg2524)
+- GitHub: [github.com/subhankar2524](https://github.com/subhankar2524)
 
 ### 😄 Pronouns
 - He/Him
@@ -44,12 +45,20 @@ Kolkata, India
 [LinkedIn](https://linkedin.com/in/subhankarg2524)  
 
 #### 🎓 Education
-- **B.Tech in Electronics and Communication Engineering (2019 - 2023)**  
-  Future Institute of Engineering and Management, Kolkata  
-- **Higher Secondary Examination (2019)**  
-  Bankura Goenka Vidyayatan, Bankura (WBCHSE Board)  
-- **Secondary Examination (2017)**  
-  Bankura Goenka Vidyayatan, Bankura (WBBSE Board)  
+<div>
+  <div style="border:1px solid #ddd; padding:10px; margin:10px; border-radius:8px;">
+    <strong>B.Tech in Electronics and Communication Engineering (2019 - 2023)</strong><br>
+    Future Institute of Engineering and Management, Kolkata
+  </div>
+  <div style="border:1px solid #ddd; padding:10px; margin:10px; border-radius:8px;">
+    <strong>Higher Secondary Examination (2019)</strong><br>
+    Bankura Goenka Vidyayatan, Bankura (WBCHSE Board)
+  </div>
+  <div style="border:1px solid #ddd; padding:10px; margin:10px; border-radius:8px;">
+    <strong>Secondary Examination (2017)</strong><br>
+    Bankura Goenka Vidyayatan, Bankura (WBBSE Board)
+  </div>
+</div>
 
 #### 💼 Experience
 **Full-Stack Developer** - Powermycode Solutions Private Limited (8/2023 - Present)  
