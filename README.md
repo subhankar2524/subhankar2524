@@ -1,539 +1,89 @@
-<!--Banner-->
-![Kiran1689 Banner Image](./banner.png)
+## Hi there 👋 I'm Subhankar Ghosh
 
-<!--Night Owl image-->
+Welcome to my GitHub profile! I'm a passionate Full-Stack Developer specializing in building robust and scalable backend systems using Node.js, with expertise in frontend technologies like Flutter and UI/UX design tools like Figma.
+
+### 🔭 I’m currently working on
+- **Full-Stack Development** at Powermycode Solutions Private Limited.
+- **Enhancing cross-platform mobile applications** with Flutter.
+- **Designing intuitive user interfaces** using Figma.
+
+### 🌱 I’m currently learning
+- Advanced Node.js architectures.
+- Improving UI/UX design skills with Figma.
+
+### 👯 I’m looking to collaborate on
+- Open-source projects in web and mobile development.
+- Innovative solutions in app development.
+
+### 🤔 I’m looking for help with
+- Expanding my expertise in cloud deployment and DevOps.
+
+### 💬 Ask me about
+- Full-Stack Development.
+- Building scalable backend solutions with Node.js.
+- Flutter-based mobile application development.
+- UI/UX design principles using Figma.
+
+### 📫 How to reach me
+- Email: [subhankarg2524@gmail.com](mailto:subhankarg2524@gmail.com)
+- LinkedIn: [linkedin.com/in/subhankarg2524](https://linkedin.com/in/subhankarg2524)
+- GitHub: [github.com/subhankar2524](https://github.com/subhankar2524)
+
+### 😄 Pronouns
+- He/Him
+
+### ⚡ Fun fact
+- I love trekking, wildlife photography, and exploring human mindsets!
+
+---
+### 📜 My Resume
+
+**Subhankar Ghosh**  
+Kolkata, India  
+[+91 8597230985](tel:+918597230985)  
+[subhankarg2524@gmail.com](mailto:subhankarg2524@gmail.com)  
+[LinkedIn](https://linkedin.com/in/subhankarg2524)  
+
+#### 🎓 Education
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <div style="border:1px solid #ddd; padding:10px; margin:10px; border-radius:8px;">
+    <strong>B.Tech in Electronics and Communication Engineering (2019 - 2023)</strong><br>
+    Future Institute of Engineering and Management, Kolkata
+  </div>
+  <div style="border:1px solid #ddd; padding:10px; margin:10px; border-radius:8px;">
+    <strong>Higher Secondary Examination (2019)</strong><br>
+    Bankura Goenka Vidyayatan, Bankura (WBCHSE Board)
+  </div>
+  <div style="border:1px solid #ddd; padding:10px; margin:10px; border-radius:8px;">
+    <strong>Secondary Examination (2017)</strong><br>
+    Bankura Goenka Vidyayatan, Bankura (WBBSE Board)
+  </div>
 </div>
 
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
-*Digital Craftsman (Developer / Programmer)*
-<br /> 
+#### 💼 Experience
+**Full-Stack Developer** - Powermycode Solutions Private Limited (8/2023 - Present)  
+- Developed cross-platform mobile applications with Flutter.
+- Built backend systems with Node.js and MongoDB.
+- Designed user-friendly interfaces using Figma.
+- Communicated effectively with clients for project success.
 
-<!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+#### 🛠️ Skills
+- **Languages:** Java, JavaScript, Dart
+- **Mobile Development:** Flutter, Dart
+- **Web Development:** HTML, CSS, Bootstrap
+- **Backend Development:** Node.js, JavaScript
+- **Database Management:** MongoDB
+- **Version Control:** Git, GitHub
+- **UI/UX Design:** Figma
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
-<!--End Intro-->
+#### 📂 Projects
+- **[Inwood Pizza](https://github.com/subhankar2524/inwood_pizza)** - A robust backend infrastructure using Node.js, MongoDB, and Cloudinary for seamless online ordering and delivery. Integrated Stripe for secure payment processing.
+- **[HSE Inspection App](https://github.com/subhankar2524/HSE_Buddy)** - A mobile application built with Flutter and Node.js, streamlining inspection processes and enhancing operational efficiency.
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
-</p>
+#### 🏆 Achievements & Interests
+- **Fine Arts & Wildlife Photography** 🎨📸
+- **Trekking & Team Sports** 🏔️⚽
+- **Spirituality & Human Mindset Exploration** 🧘‍♂️
 
 ---
-
-
-
-<!--Contribution Graph-->
-
----
-
-<!--Dynamic Quote card updates everyday at 12 PM--> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--Contact Section--> 
-
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
-  
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://x.com/kiran__a__n" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.githubcom/Kiran1689" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://dev.to/dev_kiran" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
-</a>
-</div>
-<br/>
-
-<!--Buy me a coffee-->
-<div align="center">
-<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
-
-
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
-
+🚀 _Passionate about learning and contributing to impactful projects! Let’s connect and build something amazing._
