@@ -27,7 +27,6 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer specializing
 ### 📫 How to reach me
 - Email: [subhankarg2524@gmail.com](mailto:subhankarg2524@gmail.com)
 - LinkedIn: [linkedin.com/in/subhankarg2524](https://linkedin.com/in/subhankarg2524)
-- GitHub: [github.com/subhankar2524](https://github.com/subhankar2524)
 
 ### 😄 Pronouns
 - He/Him
