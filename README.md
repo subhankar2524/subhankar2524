@@ -1,3 +1,6 @@
+![Alt text](./Portfolio.png))
+
+
 ## Hey there! 👋 I'm Subhankar Ghosh
 ![Alt text](./1724133472297.jpg))
 
