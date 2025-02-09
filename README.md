@@ -1,89 +1,59 @@
-## Hi there 👋 I'm Subhankar Ghosh
+## Hey there! 👋 I'm Subhankar Ghosh
 
-Welcome to my GitHub profile! I'm a passionate Full-Stack Developer specializing in building robust and scalable backend systems using Node.js, with expertise in frontend technologies like Flutter and UI/UX design tools like Figma.
-
-### 🔭 I’m currently working on
-- **Full-Stack Development** at Powermycode Solutions Private Limited.
-- **Enhancing cross-platform mobile applications** with Flutter.
-- **Designing intuitive user interfaces** using Figma.
-
-### 🌱 I’m currently learning
-- Advanced Node.js architectures.
-- Improving UI/UX design skills with Figma.
-
-### 👯 I’m looking to collaborate on
-- Open-source projects in web and mobile development.
-- Innovative solutions in app development.
-
-### 🤔 I’m looking for help with
-- Expanding my expertise in cloud deployment and DevOps.
-
-### 💬 Ask me about
-- Full-Stack Development.
-- Building scalable backend solutions with Node.js.
-- Flutter-based mobile application development.
-- UI/UX design principles using Figma.
-
-### 📫 How to reach me
-- Email: [subhankarg2524@gmail.com](mailto:subhankarg2524@gmail.com)
-- LinkedIn: [linkedin.com/in/subhankarg2524](https://linkedin.com/in/subhankarg2524)
-- GitHub: [github.com/subhankar2524](https://github.com/subhankar2524)
-
-### 😄 Pronouns
-- He/Him
-
-### ⚡ Fun fact
-- I love trekking, wildlife photography, and exploring human mindsets!
+Welcome to my digital space on GitHub! I'm a **Full-Stack Developer** with a passion for crafting robust backend systems, building seamless cross-platform mobile apps, and designing user-friendly interfaces. I love blending **code** with **creativity** to build meaningful tech solutions. 🚀
 
 ---
-### 📜 My Resume
 
-**Subhankar Ghosh**  
-Kolkata, India  
-[+91 8597230985](tel:+918597230985)  
-[subhankarg2524@gmail.com](mailto:subhankarg2524@gmail.com)  
-[LinkedIn](https://linkedin.com/in/subhankarg2524)  
-
-#### 🎓 Education
-<div>
-  <div style="border:1px solid #ddd; padding:10px; margin:10px; border-radius:8px;">
-    <strong>B.Tech in Electronics and Communication Engineering (2019 - 2023)</strong><br>
-    Future Institute of Engineering and Management, Kolkata
-  </div>
-  <div style="border:1px solid #ddd; padding:10px; margin:10px; border-radius:8px;">
-    <strong>Higher Secondary Examination (2019)</strong><br>
-    Bankura Goenka Vidyayatan, Bankura (WBCHSE Board)
-  </div>
-  <div style="border:1px solid #ddd; padding:10px; margin:10px; border-radius:8px;">
-    <strong>Secondary Examination (2017)</strong><br>
-    Bankura Goenka Vidyayatan, Bankura (WBBSE Board)
-  </div>
-</div>
-
-#### 💼 Experience
-**Full-Stack Developer** - Powermycode Solutions Private Limited (8/2023 - Present)  
-- Developed cross-platform mobile applications with Flutter.
-- Built backend systems with Node.js and MongoDB.
-- Designed user-friendly interfaces using Figma.
-- Communicated effectively with clients for project success.
-
-#### 🛠️ Skills
-- **Languages:** Java, JavaScript, Dart
-- **Mobile Development:** Flutter, Dart
-- **Web Development:** HTML, CSS, Bootstrap
-- **Backend Development:** Node.js, JavaScript
-- **Database Management:** MongoDB
-- **Version Control:** Git, GitHub
-- **UI/UX Design:** Figma
-
-#### 📂 Projects
-- **[Inwood Pizza](https://github.com/subhankar2524/inwood_pizza)** - A robust backend infrastructure using Node.js, MongoDB, and Cloudinary for seamless online ordering and delivery. Integrated Stripe for secure payment processing.
-- **[HSE Inspection App](https://github.com/subhankar2524/HSE_Buddy)** - A mobile application built with Flutter and Node.js, streamlining inspection processes and enhancing operational efficiency.
-
-#### 🏆 Achievements & Interests
-- **Fine Arts & Wildlife Photography** 🎨📸
-- **Trekking & Team Sports** 🏔️⚽
-- **Spirituality & Human Mindset Exploration** 🧘‍♂️
+### 💻 What I Do
+🔹 **Backend Architect** | Building scalable and efficient backend systems with **Node.js** and modern frameworks.<br>
+🔹 **Flutter Enthusiast** | Enhancing mobile experiences with cross-platform **Flutter** magic.<br>
+🔹 **UI/UX Designer** | Crafting intuitive and aesthetic interfaces with **Figma**.<br>
+🔹 **Tech Explorer** | Constantly learning and pushing boundaries in full-stack development.
 
 ---
-🚀 _Passionate about learning and contributing to impactful projects! Let’s connect and build something amazing._
+
+### 🚀 Currently Working On
+- **Full-Stack Development** at **Powermycode Solutions Private Limited** 🏢
+- Creating **cross-platform mobile applications** with Flutter 📱
+- Designing **sleek, user-friendly interfaces** with Figma 🎨
+
+---
+
+### 📚 Currently Learning
+📌 Advanced **Node.js architectures** for high-performance applications.<br>
+📌 Mastering **UI/UX design principles** to elevate user experiences.<br>
+📌 Exploring **Cloud Deployment & DevOps** to streamline operations.
+
+---
+
+### 🤝 Open to Collaborations!
+I'm excited to collaborate on:
+- Open-source projects in **web and mobile development** 🌍
+- Innovative **app development solutions** 📲
+- Cutting-edge **full-stack projects** 🔥
+
+Have an idea? Let's build it together! 🚀
+
+---
+
+### 💬 Ask Me About
+💡 Full-Stack Development (Node.js, Flutter, React, MongoDB, etc.)<br>
+💡 Scalable backend solutions for high-traffic applications<br>
+💡 UI/UX best practices & product design
+
+---
+
+### 📫 Let's Connect!
+📧 Email: [subhankarg2524@gmail.com](mailto:subhankarg2524@gmail.com)<br>
+💼 LinkedIn: [linkedin.com/in/subhankarg2524](https://linkedin.com/in/subhankarg2524)<br>
+🚀 GitHub: [github.com/subhankar2524](https://github.com/subhankar2524)
+
+---
+
+### 🎭 Fun Facts About Me
+🎒 **Trekking enthusiast** who loves exploring mountains & forests! 🏔️
+📸 **Wildlife photography** is my therapy! 🦉🐅
+🧠 Fascinated by **human psychology & mindset exploration**! 🧩
+
+Let's connect, collaborate, and create something amazing! 💙✨
+
