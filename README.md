@@ -1,4 +1,4 @@
-![Alt text](./Portfolio.png))
+![Alt text](./Frame 1.png))
 
 
 ## Hey there! 👋 I'm Subhankar Ghosh
