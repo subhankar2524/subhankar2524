@@ -1,133 +1,76 @@
+
 ![Subhankar Ghosh Portfolio](./Frame1.png)
-# 👋 Hi, I'm Subhankar Ghosh
+# Hi, I'm Ghosh
 
-🚀 Full-Stack Developer | Mobile App Developer
-📍 Kolkata, India
-📧 [subhankarg2524@gmail.com](mailto:subhankarg2524@gmail.com)
-📞 +91 8597230985
-💼 https://linkedin.com/in/subhankarg2524
+## My Journey (Not Just Another Dev Story)
 
----
+I didn’t start with the goal of “just becoming a developer.”
+I started with curiosity — *how do things actually work behind the screen?*
 
-## 🧠 About Me
+That curiosity turned into building things.
+Small at first. Then real products. Then systems people actually use.
 
-I’m a Full-Stack Developer specializing in building scalable backend systems with Node.js and AWS, along with cross-platform mobile applications using Flutter.
+Today, I work as a **Full-Stack Developer**, building scalable backend systems with Node.js and crafting smooth mobile experiences using Flutter.
 
-I focus on writing clean, efficient code while delivering seamless user experiences. I enjoy solving real-world problems and building end-to-end products that are both functional and user-friendly.
+But what really drives me?
+Turning ideas into working products that people can interact with.
 
----
 
-## 🛠️ Tech Stack
+## What I Actually Do
 
-**Languages:**
-Java | JavaScript | Dart
+I don’t just “write code.”
 
-**Frontend:**
-Next.js | HTML | CSS | Bootstrap
+I:
 
-**Backend:**
-Node.js | Express
+* Design backend systems that scale
+* Build APIs that don’t break under pressure
+* Create mobile apps that feel smooth, not clunky
+* Translate UI designs into real, usable interfaces
+* Think about **performance, UX, and real-world usage**
 
-**Mobile Development:**
-Flutter
 
-**Cloud & DevOps:**
-AWS (S3, Lambda, DynamoDB, EC2) | Render
+## How I Think as a Developer
 
-**Database:**
-MongoDB | Amazon DynamoDB
+* I care about **clean architecture**, not just working code
+* I build things **end-to-end**, not in isolation
+* I optimize for **real users**, not just code quality
+* I learn by **building**, not just watching tutorials
 
-**Tools & Others:**
-Git | GitHub | Postman | Figma | Adobe XD
 
-**State Management:**
-BLoC | GetX | Provider
+## Tech Stack (Tools I Actually Use)
 
----
+**Backend:** Node.js, Express
+**Frontend:** Next.js, HTML, CSS
+**Mobile:** Flutter
+**Cloud:** AWS (S3, Lambda, DynamoDB, EC2), Render
+**Database:** MongoDB, DynamoDB
+**Tools:** Git, Postman, Figma
 
-## 💼 Experience
 
-### Full-Stack Developer — Powermycode Solutions Pvt. Ltd.
+## Where I’ve Worked
 
-📅 Aug 2023 – Feb 2025
+### Powermycode Solutions Pvt. Ltd.
 
-* Built scalable web and mobile applications using Node.js, Flutter, and MongoDB
-* Integrated secure payment systems (Stripe)
-* Designed and deployed production-ready backend systems
-* Managed APIs and real-time functionalities
+Built real-world applications used by actual users.
+Handled backend systems, APIs, and mobile apps.
 
-**Key Work:**
+### Brandstory Solutions Pvt. Ltd.
 
-* 🍕 *Inwood Pizza* → Online food ordering system with real-time admin tracking
-* 📋 *HSE Inspection App* → Mobile inspection system with optimized UI/UX
+Focused on frontend with Next.js.
+Worked on UI implementation, API integration, and SEO optimization.
 
----
 
-### Next.js Developer — Brandstory Solutions Pvt. Ltd.
+## Beyond Code
 
-📅 Sept 2025 – Present
+When I’m not coding, I’m usually:
 
-* Developed and optimized frontend components using Next.js
-* Converted Figma designs into production-ready UI
-* Integrated REST APIs
-* Improved SEO and project structure
+* 🎨 Doing fine arts
+* 📸 Capturing wildlife
+* 🏔️ Exploring through trekking
+* 🧠 Thinking about human behavior & mindset
 
----
 
-## 🚀 Projects
+## Let’s Connect ↗
 
-### 🛒 Jubili — Multi-Seller E-commerce Platform
-
-📅 Jan 2025 – Ongoing
-
-**Tech Stack:** Node.js, Express, AWS, Next.js
-
-🔗 https://github.com/orgs/edens-in/repositories
-
-* Built a multi-seller e-commerce platform from scratch
-* Implemented authentication for users and sellers
-* Developed full product management (CRUD) system
-* Advanced product search with filters (category, price, sorting)
-* Cart, favorites, like/dislike features
-* Fully synced frontend using Next.js with persistent login
-
-**In Progress:**
-
-* Razorpay payment integration
-* Real-time order tracking system
-
----
-
-## 🎓 Education
-
-**B.Tech in Electronics & Communication Engineering**
-Future Institute of Engineering and Management, Kolkata
-📅 2019 – 2023
-
----
-
-## 🏆 Interests
-
-🎨 Fine Arts
-📸 Wildlife Photography
-🏔️ Trekking
-🤝 Meeting New People
-⚽ Team Sports
-🧠 Human Psychology & Spirituality
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true)
-
----
-
-## 🤝 Connect With Me
-
-* 💼 LinkedIn: https://linkedin.com/in/subhankarg2524
-* 📧 Email: [subhankarg2524@gmail.com](mailto:subhankarg2524@gmail.com)
-
----
-
-⭐ If you find my work interesting, feel free to check out my repositories and connect!
+[subhankarg2524@gmail.com](mailto:subhankarg2524@gmail.com)
+https://linkedin.com/in/subhankarg2524
